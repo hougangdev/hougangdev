@@ -11,10 +11,10 @@
 #### 👨🏻‍💻 About Me
 
 Blockchain Engineer focused on **scalable blockchain systems**, **on-chain trading infrastructure**, and **cloud-native backend services**.  
-Driven by a deep passion for **DeFi architecture**, continuously sharpening my expertise in **smart contract design, market mechanics, and trading systems**.
+Driven by a deep passion for **DeFi architecture**, continuously sharpening my expertise in **smart-contract systems** and **trading infrastructure**.
 
 - ⚙️ Building **on-chain carbon credit registry & marketplace** @ Carbon Sync
-- 💹 Applying **quant frameworks** (A–S, F–L) for **perp DEX trading optimization**
+- 💹 Applying **quant frameworks** (Avallenada–Stoikov, Fodra–Labadie) for **perp DEX trading**
 - ☁️ Designing **cloud-native infrastructure** on **GCP**, **AWS**, and **Docker**
 
 ---
@@ -36,20 +36,6 @@ Driven by a deep passion for **DeFi architecture**, continuously sharpening my e
 <div align="center">
     <img src="https://skillicons.dev/icons?i=solidity,typescript,python,nodejs,react,nextjs,tailwind,rust" /><br>
     <img src="https://skillicons.dev/icons?i=docker,gcp,aws,terraform,postgres,redis,git,linux,vscode" />
-</div>
-
----
-
-<h2 align="center">🏗️ Core Expertise 🏗️</h2>
-<br>
-<div align="center">
-
-💠 **Smart Contracts** — UUPS / ERC-1967 · Role-based control · Token registries · Orderbook trading  
-<br/>
-☁️ **Backend & Infra** — Cloud Run · Pub/Sub · Redis · Terraform · CI/CD automation  
-<br/>
-📊 **Trading Systems** — Quant model application (A–S, F–L) · Spread & inventory tuning on perp DEXs
-
 </div>
 
 ---
