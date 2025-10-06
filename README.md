@@ -10,7 +10,7 @@
 
 #### 👨🏻‍💻 About Me
 
-Blockchain Engineer focused on **scalable blockchain systems**, **on-chain trading infrastructure**, and **cloud-native backend services** across **AI, DeFi, and sustainability**.  
+Blockchain Engineer focused on **scalable blockchain systems**, **on-chain trading infrastructure**, and **cloud-native backend services**.  
 Driven by a deep passion for **DeFi architecture**, continuously sharpening my expertise in **smart contract design, market mechanics, and trading systems**.
 
 - ⚙️ Building **on-chain carbon credit registry & marketplace** @ Carbon Sync
