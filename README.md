@@ -11,10 +11,9 @@
 #### 👨🏻‍💻 About Me
 
 Blockchain Engineer focused on **scalable blockchain systems**, **on-chain trading infrastructure**, and **cloud-native backend services**.  
-Driven by a deep passion for **DeFi architecture**, continuously sharpening my expertise in **smart-contract systems** and **trading infrastructure**.
+Driven by a deep passion for **DeFi**, continuously sharpening my expertise in **smart-contract systems**
 
 - ⚙️ Building **on-chain carbon credit registry & marketplace** @ Carbon Sync
-- 💹 Applying **quant frameworks** (Avallenada–Stoikov, Fodra–Labadie) for **perp DEX trading**
 - ☁️ Designing **cloud-native infrastructure** on **GCP**, **AWS**, and **Docker**
 
 ---
