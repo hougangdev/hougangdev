@@ -3,7 +3,7 @@
 # Hi there 👋🏻 I'm Wayne
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=500&lines=Blockchain+Engineer;Backend+Developer;DeFi+Builder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=500&lines=Blockchain+Engineer;Backend+Developer" alt="Typing Animation" />
 </p>
 
 ---
