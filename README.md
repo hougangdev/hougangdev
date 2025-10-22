@@ -14,7 +14,7 @@ Blockchain Engineer focused on **scalable blockchain systems**, **DeFi**, and **
 Driven by a deep passion for **DeFi**, continuously sharpening my expertise in **smart-contract systems**
 
 - ⚙️ Building **on-chain carbon credit registry & marketplace** @ Carbon Sync
-- ☁️ Designing **cloud-native infrastructure** on **GCP**, **AWS**, and **Docker**
+- ☁️ Designing **cloud-native infrastructure** on **GCP** and **AWS**
 
 ---
 
