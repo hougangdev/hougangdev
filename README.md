@@ -3,18 +3,19 @@
 # Hi there 👋🏻 I'm Wayne
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=500&lines=Blockchain+Engineer;Backend+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+Backend+%2F+Blockchain" alt="Typing Animation" />
 </p>
 
 ---
 
 #### 👨🏻‍💻 About Me
 
-Software Engineer focused on **scalable blockchain systems**, **DeFi**, and **cloud-native backend services**.  
-Driven by a deep passion for **DeFi**, continuously sharpening my expertise in **smart-contract systems**
+Software Engineer building **production AI systems**, **backend platforms**, and **blockchain infrastructure**.
+Focused on **GenAI/RAG pipelines**, **real-time agent orchestration**, and **smart-contract systems**.
 
-- ⚙️ Building **on-chain carbon credit registry & marketplace** @ Carbon Sync
-- ☁️ Designing **cloud-native infrastructure** on **GCP** and **AWS**
+- 🤖 Building **AI automation systems** & **streaming medical companions** @ Carbon Sync
+- ⛓️ Developing **Solidity smart contracts** & **EVM tokenization systems**
+- ☁️ **GCP Certified Associate Cloud Engineer** | Designing cloud-native infra on **GCP** & **AWS**
 
 ---
 
@@ -33,8 +34,8 @@ Driven by a deep passion for **DeFi**, continuously sharpening my expertise in *
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=solidity,typescript,python,nodejs,react,nextjs,tailwind,rust" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,gcp,aws,terraform,postgres,redis,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=typescript,python,solidity,nodejs,nestjs,react,nextjs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,docker,gcp,aws,terraform,redis,git,linux" />
 </div>
 
 ---
