@@ -13,10 +13,6 @@
 Software Engineer building **production AI systems**, **backend platforms**, and **blockchain infrastructure**.
 Focused on **GenAI/RAG pipelines**, **real-time agent orchestration**, and **smart-contract systems**.
 
-- 🤖 Building **AI automation systems** & **streaming medical companions** @ Carbon Sync
-- ⛓️ Developing **Solidity smart contracts** & **EVM tokenization systems**
-- ☁️ **GCP Certified Associate Cloud Engineer** | Designing cloud-native infra on **GCP** & **AWS**
-
 ---
 
 <h4 align="left">🌐 Connect with me</h4>
