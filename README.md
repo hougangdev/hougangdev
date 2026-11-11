@@ -75,11 +75,15 @@ Software Engineer based in Singapore, building **production backend services**, 
 ---
 
 
-<h2 align="center">🌑 Contribution History 🌑</h2>
-<br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hougangdev&bg_color=0d1117&color=00E6FE&line=00E6FE&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
+
+## 🌑 Contribution History 🌑
+
+<p align="center">
+  <a href="https://github.com/hougangdev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougangdev&theme=github_dark" alt="GitHub Contribution Summary" width="95%" />
+  </a>
+</p>
+
 
 
 ---
